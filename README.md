@@ -1,6 +1,6 @@
 # adHook
 
-A small dylib that displays an HTML page as a banner overlay in a or selected current window.
+A small dylib that displays an HTML page as a banner overlay in a selected or current window.
 
 Works on iOS, iPadOS, tvOS & macOS
 
